@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Data Science | Artificial Intelligence | Human-Computer Interaction
+subtitle: Data Science | Human-Computer Interaction | Artificial Intelligence
 
 profile:
   align: right
@@ -10,7 +10,7 @@ profile:
   address: 
 
 news: true  # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
