@@ -39,7 +39,7 @@ layout: default
           {%- endif %}
           {% if page.selected_papers -%}
             <!-- Selected papers -->
-            {%- include selected_papers.html %}
+            {% comment %} {%- include selected_papers.html %} {% endcomment %}
           {%- endif %}
           {%- if page.social %}
           <!-- Social -->
