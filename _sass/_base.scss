@@ -236,14 +236,14 @@ blockquote {
 }
 
 
-// News
+// experience
 
-.news table td {
+.experience table td {
   font-size: 1rem;
   color: var(--global-text-color);
 }
 
-.news table th {
+.experience table th {
   color: var(--global-text-color);
 }
 
@@ -570,7 +570,7 @@ html.transition *:after {
 
 // Extra Markdown style (post Customization)
 .post{
-  .post-title-news{
+  .post-title-experience{
     color: var(--global-text-color);
     font-size: 1.5rem;
     font-weight: 300;

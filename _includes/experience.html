@@ -1,18 +1,18 @@
           
-          <div class="news">
-            <h2>News</h2>
-            {% if site.news != blank -%} 
+          <div class="experience">
+            <h2>experience</h2>
+            {% if site.experience != blank -%} 
             <div class="table-responsive">
               <table class="table table-sm table-borderless">
-              {%- assign news = site.news | reverse -%} 
-              {% for item in news limit: site.news_limit %} 
+              {%- assign experience = site.experience | reverse -%} 
+              {% for item in experience limit: site.experience_limit %} 
                 <tr>
                   <th scope="row">{{ item.date | date: "%b %-d, %Y" }}</th>
                   <td>
                     {% if item.inline -%} 
                       {{ item.content | remove: '<p>' | remove: '</p>' | emojify }}
                     {%- else -%} 
-                      <a class="news-title" href="{{ item.url | relative_url }}">{{ item.title }}</a>
+                      <a class="experience-title" href="{{ item.url | relative_url }}">{{ item.title }}</a>
                     {%- endif %} 
                   </td>
                 </tr>
@@ -20,6 +20,6 @@
               </table>
             </div>
           {%- else -%} 
-            <p>No news so far...</p>
+            <p>No experience so far...</p>
           {%- endif %} 
           </div>

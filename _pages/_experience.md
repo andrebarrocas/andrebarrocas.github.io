@@ -1,8 +1,8 @@
 ---
 layout: page
-title: news
-permalink: /news/
-description: A growing collection of cool projects and news.
+title: Experience
+permalink: /experience/
+description: A growing collection of cool projects and experience.
 nav: true
 display_categories: [work, fun]
 horizontal: false
