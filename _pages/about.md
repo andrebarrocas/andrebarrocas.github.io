@@ -6,7 +6,7 @@ subtitle: Data Science | Artificial Intelligence | Human-Computer Interaction
 
 profile:
   align: right
-  image: foto-casamento.jpeg
+  image: foto.jpeg
   address: 
 
 news: true  # includes a list of news items
