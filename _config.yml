@@ -107,7 +107,7 @@ collections:
     output: true
     permalink: /projects/:path/
 
-experience_limit: 5
+experience_limit: 50
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
