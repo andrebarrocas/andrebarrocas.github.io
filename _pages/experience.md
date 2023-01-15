@@ -1,8 +1,8 @@
 ---
 layout: page
-title: experience
+title: Experience
 permalink: /experience/
-description: A growing collection my current and old experience.
+description: My current and old experience.
 nav: true
 horizontal: false
 ---
