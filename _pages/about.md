@@ -14,6 +14,11 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false  # includes social icons at the bottom of the page
 ---
 
+I'm a software engineer currently working at Deloitte in the department of Artificial Intelligence and Data, and I'm also a researcher at INESC-ID.
+
+My current research interests are data science, human-centered systems, and artificial intelligence.
+
+I completed the MSc in Computer Science and Engineering at Instituto Superior Técnico, University of Lisbon. During my time at the Instituto Superior Técnico, I worked as Teaching Assistant in the computer science department and Research Assistant on two projects. I focused on the study and research data analytics and visualization techniques.
 
 
 <!-- My hobbies include I'm currently collaborating with the [Adamastor Project](https://projectoadamastor.org/) that aims to bring free public domain ebooks to more people. --> 
