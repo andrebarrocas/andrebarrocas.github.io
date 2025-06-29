@@ -11,29 +11,27 @@ profile:
 
 experience: true  # includes a list of experience items
 selected_papers: false # includes a list of papers marked as "selected={true}"
-social: true  # includes social icons at the bottom of the page
+social: false  # includes social icons at the bottom of the page
 ---
-
-# ANDRÉ BARROCAS
 
 **Email:** andre.barrocas@tecnico.ulisboa.pt  
 **ORCID:** [0000-0001-9804-3129](https://orcid.org/0000-0001-9804-3129)  
 **Location:** Lisbon, Portugal
 
-I’m passionate about creating interactive systems that deepen the relationship between people, technology, and the environment. My work explores how storytelling, and design can encourage sustainable behaviors, reveal environmental impacts, and support collective action toward ecological resilience. I’m driven to build systems that listen—systems that adapt to context, respond in real time, and amplify the voices of communities often most affected by environmental and social inequities. Through generative AI, mixed reality, and participatory design, I investigate how technology can serve as a tool for ecological awareness, cultural expression, and ethical imagination. I believe technology should resonate, empower, and contribute meaningfully to a more sustainable and equitable future.
+I'm passionate about creating interactive systems that deepen the relationship between people, technology, and the environment. My work explores how storytelling, and design can encourage sustainable behaviors, reveal environmental impacts, and support collective action toward ecological resilience. I'm driven to build systems that listen—systems that adapt to context, respond in real time, and amplify the voices of communities often most affected by environmental and social inequities. Through generative AI, mixed reality, and participatory design, I investigate how technology can serve as a tool for ecological awareness, cultural expression, and ethical imagination. I believe technology should resonate, empower, and contribute meaningfully to a more sustainable and equitable future.
 
 ## EDUCATION
 
 - **University of Lisbon, Instituto Superior Técnico**  
-  M.Sc. in Computer Science and Engineering – Human-Computer Interaction (2022)  
+  M.Sc. in Computer Science and Engineering – Human-Computer Interaction 
   Grade: 17.3/20 (Thesis: 19/20)
 - **University of Algarve**  
-  B.Sc. in Computer Science (2020)  
+  B.Sc. in Computer Science 
   Grade: 15.4/20
 
 ## EXPERIENCE
 
-I’m a researcher and designer focused on human-centered interactive systems. At the Interactive Technologies Institute in Portugal. Previously, I contributed as a technology consultant at Deloitte Digital in Belgium, designing digital tools and dashboards for diverse clients. Earlier, I worked at INESC-ID Lisbon, specializing in information visualization. I have also taught graduate-level courses in HCI at Instituto Superior Técnico. 
+I'm a researcher and designer focused on human-centered interactive systems. At the Interactive Technologies Institute in Portugal. Previously, I contributed as a technology consultant at Deloitte Digital in Belgium, designing digital tools and dashboards for diverse clients. Earlier, I worked at INESC-ID Lisbon, specializing in information visualization. I have also taught graduate-level courses in HCI at Instituto Superior Técnico. 
 
 ## PUBLICATIONS
 - Exploring Data Analysis and Visualisation Techniques for Effective Project Tracking with the ITLingo-Cloud. In QUATIC 2023, Aveiro

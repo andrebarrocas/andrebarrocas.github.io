@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 
-title: André Barrocas # the website title (if blank, full name will be used instead)
+title: Personal Website # the website title (if blank, full name will be used instead)
 first_name: André
 middle_name: 
 last_name: Barrocas
@@ -71,7 +71,7 @@ dblp_url: # your DBLP profile url
 stackoverflow_id: #your stackoverflow id
 
 contact_note: >
-  Let’s connect about sustainable HCI, design, and collaborative projects.
+  Let's connect about sustainable HCI, design, and collaborative projects.
 
 google_analytics: G- # your google-analytics ID (format: UA-XXXXXXXXX)
 google_site_verification:  W9j # your google-site-verification ID (Google Search Console)
