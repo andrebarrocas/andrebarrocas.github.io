@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Data Science | Human-Computer Interaction | Artificial Intelligence
+subtitle: Human-Computer Interaction | Sustainable HCI | Interaction Design
 
 profile:
   align: right
@@ -31,7 +31,7 @@ I’m passionate about creating interactive systems that deepen the relationship
   B.Sc. in Computer Science (2020)  
   Grade: 15.4/20
 
-## EMPLOYMENT
+## EXPERIENCE
 
 I’m a researcher and designer focused on human-centered interactive systems. At the Interactive Technologies Institute in Portugal. Previously, I contributed as a technology consultant at Deloitte Digital in Belgium, designing digital tools and dashboards for diverse clients. Earlier, I worked at INESC-ID Lisbon, specializing in information visualization. I have also taught graduate-level courses in HCI at Instituto Superior Técnico. 
 
