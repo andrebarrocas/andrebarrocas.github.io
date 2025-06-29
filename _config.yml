@@ -4,7 +4,7 @@
 
 title: André Barrocas # the website title (if blank, full name will be used instead)
 first_name: André
-middle_name: #M.
+middle_name: 
 last_name: Barrocas
 email: andre.barrocas@tecnico.ulisboa.pt
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
@@ -58,7 +58,7 @@ github_username: AndreBarrocas
 gitlab_username: # your GitLab user name
 linkedin_username: andrebarrocas/
 scholar_userid: # your Google Scholar ID
-orcid_id: # your ORCID ID
+orcid_id: 0000-0001-9804-3129
 medium_username: # your Medium username
 quora_username: # your Quora username
 publons_id: # your ID on Publons
@@ -309,3 +309,5 @@ popper:
 medium_zoom:
   version: "1.0.6"
   integrity: "sha256-EdPgYcPk/IIrw7FYeuJQexva49pVRZNmt3LculEr7zM="
+
+location: Lisbon, Portugal
