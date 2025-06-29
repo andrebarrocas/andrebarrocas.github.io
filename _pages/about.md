@@ -7,7 +7,6 @@ subtitle: Human-Computer Interaction | Sustainable HCI | Interaction Design
 profile:
   align: right
   image: foto.jpeg
-  address: Lisbon, Portugal
 
 experience: true  # includes a list of experience items
 selected_papers: false # includes a list of papers marked as "selected={true}"
@@ -16,7 +15,6 @@ social: false  # includes social icons at the bottom of the page
 
 **Email:** andre.barrocas@tecnico.ulisboa.pt  
 **ORCID:** [0000-0001-9804-3129](https://orcid.org/0000-0001-9804-3129)  
-**Location:** Lisbon, Portugal
 
 I'm passionate about creating interactive systems that deepen the relationship between people, technology, and the environment. My work explores how technology and design can encourage sustainable behaviors, reveal environmental impacts, and support collective action toward ecological resilience. I'm driven to build systems that adapt to context and amplify the voices of communities often most affected by environmental and social inequities. Through generative AI, mixed reality, and participatory design, I investigate how technology can serve as a tool for ecological awareness, cultural expression, and ethical imagination. I believe technology should resonate, empower, and contribute meaningfully to a more sustainable and equitable future.
 
