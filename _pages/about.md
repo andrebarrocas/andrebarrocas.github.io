@@ -23,7 +23,7 @@ I'm a researcher and designer focused on human-centered interactive systems at t
 
 I develop creative tools that merge artificial intelligence with design practice, allowing designers to interact with AI through approachable and expressive systems. In addition, I am deeply engaged in sustainability research within HCI, with a focus on how technology can support more sustainable practices and contribute to making the world a better place.
 
-A central direction of my research is integrating sustainability into creative and technical workflows. I explore how interactive systems can make environmental impact data such as energy use, emissions, and material trade-offs—immediately available during ideation and development. This means embedding ecological reasoning into the same tools people already use to sketch, generate, or code, so sustainability becomes part of the creative flow rather than an afterthought.
+A central direction of my research is integrating sustainability into creative and technical workflows. I explore how interactive systems can make environmental impact data such as energy use, emissions, and material trade-offs, immediately available during ideation and development. This means embedding ecological reasoning into the same tools people already use to sketch, generate, or code, so sustainability becomes part of the creative flow rather than an afterthought.
 
 My broader goal is to rethink human–AI collaboration in ways that not only expand creative possibilities but also foster more sustainable design and technology practices, helping people imagine and build futures that are both innovative and environmentally responsible.
 
