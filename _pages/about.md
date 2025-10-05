@@ -16,21 +16,18 @@ social: false  # includes social icons at the bottom of the page
 **Email:** andre.barrocas@tecnico.ulisboa.pt  
 **ORCID:** [0000-0001-9804-3129](https://orcid.org/0000-0001-9804-3129)  
 
-I'm passionate about creating interactive systems that deepen the relationship between people, technology, and the environment. My work explores how technology and design can encourage sustainable behaviors, reveal environmental impacts, and support collective action toward ecological resilience. I'm driven to build systems that adapt to context and amplify the voices of communities often most affected by environmental and social inequities. Through generative AI, mixed reality, and participatory design, I investigate how technology can serve as a tool for ecological awareness, cultural expression, and ethical imagination. I believe technology should resonate, empower, and contribute meaningfully to a more sustainable and equitable future.
+I'm a researcher and designer focused on human-centered interactive systems at the Interactive Technologies Institute. Previously, I worked as a UX/UI consultant at Deloitte Digital in Belgium, designing digital tools and dashboards for diverse clients. Earlier, I worked at INESC-ID Lisbon, specializing in information visualization. I have also taught graduate-level courses in HCI at Instituto Superior Técnico, University of Lisbon. 
 
-## EDUCATION
 
-- **University of Lisbon, Instituto Superior Técnico**  
-  M.Sc. in Computer Science and Engineering – Human-Computer Interaction 
-  Grade: 17.3/20
-- **University of Algarve**  
-  B.Sc. in Computer Science 
-  Grade: 15.4/20
+## RESEARCH
 
-## EXPERIENCE
+I develop creative tools that merge artificial intelligence with design practice, allowing designers to interact with AI through approachable and expressive systems. In addition, I am deeply engaged in sustainability research within HCI, with a focus on how technology can support more sustainable practices and contribute to making the world a better place.
 
-I'm a researcher and designer focused on human-centered interactive systems at the Interactive Technologies Institute. Previously, I worked as a technology consultant at Deloitte Digital in Belgium and Portugal, designing digital tools and dashboards for diverse clients. Earlier, I worked at INESC-ID Lisbon, specializing in information visualization. I have also taught graduate-level courses in HCI at Instituto Superior Técnico, University of Lisbon. 
+A central direction of my research is integrating sustainability into creative and technical workflows. I explore how interactive systems can make environmental impact data—such as energy use, emissions, and material trade-offs—immediately available during ideation and development. This means embedding ecological reasoning into the same tools people already use to sketch, generate, or code, so sustainability becomes part of the creative flow rather than an afterthought.
 
+My broader goal is to rethink human–AI collaboration in ways that not only expand creative possibilities but also foster more sustainable design and technology practices, helping people imagine and build futures that are both innovative and environmentally responsible.
+
+<!--
 ## PUBLICATIONS
 - Exploring Data Analysis and Visualisation Techniques for Effective Project Tracking with the ITLingo-Cloud. In QUATIC 2023, Aveiro
 
@@ -38,6 +35,7 @@ I'm a researcher and designer focused on human-centered interactive systems at t
 - Academic Merit Diploma – Instituto Superior Técnico (2022)
 - European Union Scholar Grant – INESC-ID Lisbon (2022)
 - Foundation for Science and Technology (FCT) Scholar Grant – INESC-ID Lisbon (2021)
+-->
 
 <!-- My hobbies include I'm currently collaborating with the [Adamastor Project](https://projectoadamastor.org/) that aims to bring free public domain ebooks to more people. --> 
 
