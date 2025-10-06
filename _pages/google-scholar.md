@@ -1,6 +1,7 @@
 ---
 title: Google Scholar
 permalink: /google-scholar/
+nav: true
 ---
 
 <div class="row">

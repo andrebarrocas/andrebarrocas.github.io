@@ -1,6 +1,7 @@
 ---
 title: Illustration
 permalink: /illustration/
+nav: true
 ---
 
 <div class="row">
