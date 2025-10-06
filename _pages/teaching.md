@@ -3,7 +3,6 @@ layout: page
 permalink: /teaching/
 title: Teaching
 description: Here is a list of courses that I am teaching assistant.
-nav: true
 ---
 
 **Human-Computer Interaction**<br>
