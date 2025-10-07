@@ -4,12 +4,7 @@ title: Illustration
 permalink: /illustration/
 ---
 
-<div class="row">
-  <div class="col-lg-12">
-    <h1 class="mb-4">Illustration</h1>
-    <p class="mb-5">Digital artwork and visual explorations.</p>
-  </div>
-</div>
+
 
 <div class="row">
   <div class="col-lg-3 col-md-6 mb-3">

@@ -14,7 +14,7 @@ social: false  # includes social icons at the bottom of the page
 ---
 
 **Email:** andre.barrocas@tecnico.ulisboa.pt  
-**ORCID:** [0000-0001-9804-3129](https://orcid.org/0000-0001-9804-3129)  
+<!-- **ORCID:** [0000-0001-9804-3129](https://orcid.org/0000-0001-9804-3129) -->  
 
 I'm a researcher and designer focused on human-centered interactive systems at the Interactive Technologies Institute. Previously, I worked as a UX/UI consultant at Deloitte Digital in Belgium, designing digital tools and dashboards for diverse clients. Earlier, I worked at INESC-ID Lisbon, specializing in information visualization. I have also taught graduate-level courses in HCI at Instituto Superior Técnico, University of Lisbon. 
 

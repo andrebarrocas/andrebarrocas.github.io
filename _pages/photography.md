@@ -4,12 +4,6 @@ title: Photography
 permalink: /photography/
 ---
 
-<div class="row">
-  <div class="col-lg-12">
-    <h1 class="mb-4">Photography</h1>
-    <p class="mb-5">A collection of moments captured through my lens.</p>
-  </div>
-</div>
 
 <div class="row">
   <div class="col-lg-3 col-md-6 mb-3">
