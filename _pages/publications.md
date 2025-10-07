@@ -2,8 +2,8 @@
 layout: page
 permalink: /publications/
 title: Publications
-description: My research publications and academic work
-years: [2023, 2022]
+description: 
+years: [2023,2025]
 nav: true
 ---
 <!-- _pages/publications.md -->
