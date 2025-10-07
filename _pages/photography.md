@@ -1,4 +1,5 @@
 ---
+layout: default
 title: Photography
 permalink: /photography/
 nav: true
@@ -22,51 +23,41 @@ document.addEventListener('DOMContentLoaded', function() {
     {% for image in site.static_files %}
       {% if image.path contains 'assets/img/photos/' and image.extname == '.jpg' %}
         {% unless image.basename contains 'DS_Store' %}
-    {
-      src: "{{ image.path | relative_url }}",
-      alt: "{{ image.basename | remove: image.extname | replace: '-', ' ' | replace: '_', ' ' | capitalize }}",
-      title: "{{ image.basename | remove: image.extname | replace: '-', ' ' | replace: '_', ' ' | capitalize }}"
-    }{% unless forloop.last %},{% endunless %}
+    "{{ image.path | relative_url }}"{% unless forloop.last %},{% endunless %}
         {% endunless %}
       {% endif %}
     {% endfor %}
   ];
 
-  // Create Pinterest-style masonry layout
+  // Create 3-column grid layout
   const gallery = document.getElementById('photography-gallery');
   gallery.innerHTML = '';
   gallery.style.display = 'block';
 
-  // Create columns for masonry effect
-  const numColumns = 4;
+  // Create 3 columns
+  const numColumns = 3;
   const columns = [];
   for (let i = 0; i < numColumns; i++) {
     const column = document.createElement('div');
-    column.className = 'col-lg-3 col-md-6 mb-4';
+    column.className = 'col-lg-4 col-md-6 mb-3';
     column.style.breakInside = 'avoid';
     columns.push(column);
     gallery.appendChild(column);
   }
 
   // Distribute images across columns
-  photographyImages.forEach((image, index) => {
+  photographyImages.forEach((imageSrc, index) => {
     const columnIndex = index % numColumns;
     const imageElement = document.createElement('div');
-    imageElement.className = 'card h-100 shadow-sm';
+    imageElement.className = 'mb-3';
     imageElement.innerHTML = `
-      <div class="card-img-container" style="position: relative; overflow: hidden;">
-        <img src="${image.src}" 
-             class="card-img-top" 
-             alt="${image.alt}" 
-             style="width: 100%; height: auto; transition: transform 0.3s ease; cursor: pointer;"
-             data-zoom-src="${image.src}"
-             onmouseover="this.style.transform='scale(1.05)'"
-             onmouseout="this.style.transform='scale(1)'"
-             onclick="window.open('${image.src}', '_blank')">
-      </div>
-      <div class="card-body p-3">
-        <h6 class="card-title text-muted small mb-0">${image.title}</h6>
-      </div>
+      <img src="${imageSrc}" 
+           class="img-fluid rounded shadow-sm" 
+           alt="Photography" 
+           style="width: 100%; height: auto; transition: transform 0.3s ease, box-shadow 0.3s ease; cursor: pointer;"
+           onmouseover="this.style.transform='scale(1.02)'; this.style.boxShadow='0 8px 25px rgba(0,0,0,0.15)'"
+           onmouseout="this.style.transform='scale(1)'; this.style.boxShadow='0 2px 10px rgba(0,0,0,0.1)'"
+           onclick="window.open('${imageSrc}', '_blank')">
     `;
     columns[columnIndex].appendChild(imageElement);
   });
@@ -74,28 +65,19 @@ document.addEventListener('DOMContentLoaded', function() {
 </script>
 
 <style>
-#photography-gallery .card {
-  border: none;
-  border-radius: 12px;
+#photography-gallery img {
+  border-radius: 8px;
+  box-shadow: 0 2px 10px rgba(0,0,0,0.1);
   transition: transform 0.3s ease, box-shadow 0.3s ease;
 }
 
-#photography-gallery .card:hover {
-  transform: translateY(-5px);
-  box-shadow: 0 8px 25px rgba(0,0,0,0.15) !important;
-}
-
-#photography-gallery .card-img-container {
-  border-radius: 12px 12px 0 0;
-  overflow: hidden;
-}
-
-#photography-gallery .card-img-top {
-  border-radius: 0;
+#photography-gallery img:hover {
+  transform: scale(1.02);
+  box-shadow: 0 8px 25px rgba(0,0,0,0.15);
 }
 
 @media (max-width: 768px) {
-  #photography-gallery .col-lg-3 {
+  #photography-gallery .col-lg-4 {
     margin-bottom: 1rem;
   }
 }

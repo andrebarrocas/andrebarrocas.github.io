@@ -10,8 +10,6 @@ children:
       permalink: /illustration/
     - title: Experiments
       permalink: /experiments/
-    - title: Google Scholar
-      permalink: /google-scholar/
     - title: divider
     - title: publications
       permalink: /publications/
