@@ -28,21 +28,34 @@
                   {%- endif -%}
                 </a>
               </li>
-              {% if site.blog_name %}
-              <!-- Blog -->
-              <li class="nav-item {% if page.url contains 'blog' %}active{% endif %}">
-                <a class="nav-link" href="{{ '/blog/' | relative_url }}">blog
-                  {%- if page.title == "blog" -%}
+
+              <!-- Portfolio Tabs -->
+              <li class="nav-item {% if page.title == 'Illustration' %}active{% endif %}">
+                <a class="nav-link" href="{{ '/illustration/' | relative_url }}">Illustration
+                  {%- if page.title == "Illustration" -%}
                   <span class="sr-only">(current)</span>
                   {%- endif -%}
                 </a>
               </li>
-              {%- endif %}
+              <li class="nav-item {% if page.title == 'Photography' %}active{% endif %}">
+                <a class="nav-link" href="{{ '/photography/' | relative_url }}">Photography
+                  {%- if page.title == "Photography" -%}
+                  <span class="sr-only">(current)</span>
+                  {%- endif -%}
+                </a>
+              </li>
+              <li class="nav-item {% if page.title == 'Experiments' %}active{% endif %}">
+                <a class="nav-link" href="{{ '/experiments/' | relative_url }}">Experiments
+                  {%- if page.title == "Experiments" -%}
+                  <span class="sr-only">(current)</span>
+                  {%- endif -%}
+                </a>
+              </li>
 
-              <!-- Other pages -->
-              {%- assign sorted_pages = site.pages | sort: "title" -%}
-              {%- for p in sorted_pages -%}
-              {%- if p.nav and p.autogen == nil -%}
+              <!-- Academic Pages -->
+              {%- assign academic_pages = site.pages | where: "nav", true | where_exp: "page", "page.title != 'Illustration' and page.title != 'Photography' and page.title != 'Experiments'" -%}
+              {%- for p in academic_pages -%}
+              {%- if p.autogen == nil -%}
               {%- if p.dropdown %}
               <li class="nav-item dropdown {% if page.title == p.title %}active{% endif %}">
                 <a class="nav-link dropdown-toggle" href="#" id="navbarDropdown" role="button" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">{{ p.title }}

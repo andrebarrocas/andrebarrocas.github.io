@@ -2,7 +2,6 @@
 layout: default
 title: Experiments
 permalink: /experiments/
-nav: true
 ---
 
 <div class="row">
