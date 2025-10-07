@@ -27,16 +27,6 @@ A central direction of my research is integrating sustainability into creative a
 
 My broader goal is to rethink human-AI collaboration in ways that not only expand creative possibilities but also foster more sustainable design and technology practices, helping people imagine and build futures that are both innovative and environmentally responsible.
 
-<!--
-## PUBLICATIONS
-- Exploring Data Analysis and Visualisation Techniques for Effective Project Tracking with the ITLingo-Cloud. In QUATIC 2023, Aveiro
-
-## HONORS & GRANTS
-- Academic Merit Diploma – Instituto Superior Técnico (2022)
-- European Union Scholar Grant – INESC-ID Lisbon (2022)
-- Foundation for Science and Technology (FCT) Scholar Grant – INESC-ID Lisbon (2021)
--->
-
 <!-- My hobbies include I'm currently collaborating with the [Adamastor Project](https://projectoadamastor.org/) that aims to bring free public domain ebooks to more people. --> 
 
 
