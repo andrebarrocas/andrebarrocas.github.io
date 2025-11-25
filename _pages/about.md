@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Human-Computer Interaction | Sustainable HCI | Interaction Design
+subtitle: Human-Computer Interaction | Interaction Design | Sustainable HCI
 
 profile:
   align: right
@@ -16,16 +16,16 @@ social: false  # includes social icons at the bottom of the page
 **Email:** andre.barrocas@tecnico.ulisboa.pt  
 <!-- **ORCID:** [0000-0001-9804-3129](https://orcid.org/0000-0001-9804-3129) -->  
 
-I'm a researcher and designer focused on human-centered interactive systems at the Interactive Technologies Institute. Earlier, I worked at INESC-ID Lisbon, specializing in information visualization. I have also worked as a teaching assistant for graduate-level courses in HCI at Instituto Superior Técnico, University of Lisbon. 
+I'm a computer scientist and design researcher at the Interactive Technologies Institute, where I develop human-centered interactive systems. Previously, I worked as a UX/UI consultant at Deloitte Digital in Belgium and at INESC-ID Lisbon, focusing on information visualization. I have also worked as a teaching assistant for graduate-level courses in HCI at Instituto Superior Técnico, University of Lisbon. 
 
 
 ## RESEARCH
 
-I develop creative tools that merge artificial intelligence with design practice, allowing designers to interact with AI through approachable and expressive systems. In addition, I am deeply engaged in sustainability research within HCI, with a focus on how technology can support more sustainable practices and contribute to making the world a better place.
+I build creative tools that bring artificial intelligence into design practice, helping people work with AI in ways that feel intuitive, expressive, and supportive to the design process. At the same time, my work is driven by a strong commitment to sustainability in HCI and to understanding how digital technologies can meaningfully contribute to a better world.
 
-A central direction of my research is integrating sustainability into creative and technical workflows. I explore how interactive systems can make environmental impact data such as energy use, emissions, and material trade-offs, immediately available during ideation and development. This means embedding ecological reasoning into the same tools people already use to sketch, generate, or code, so sustainability becomes part of the creative flow rather than an afterthought.
+I investigate how interactive systems can surface environmental impact data such as energy use, emissions, and material trade-offs at the moment designers ideate, sketch, prototype, or develop. This involves embedding ecological reasoning into the tools people use to imagine, generate, and build, so sustainability becomes a natural part of the creative process rather than an afterthought.
 
-My broader goal is to rethink human-AI collaboration in ways that not only expand creative possibilities but also foster more sustainable design and technology practices, helping people imagine and build futures that are both innovative and environmentally responsible.
+I’m motivated by the belief that human-AI collaboration can expand what people are capable of while also encouraging more thoughtful, responsible forms of innovation.
 
 <!-- My hobbies include I'm currently collaborating with the [Adamastor Project](https://projectoadamastor.org/) that aims to bring free public domain ebooks to more people. --> 
 
