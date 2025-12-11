@@ -31,7 +31,6 @@ I’m motivated by the belief that human-AI collaboration can expand what people
 </video>
 
 
-
 <!-- My hobbies include I'm currently collaborating with the [Adamastor Project](https://projectoadamastor.org/) that aims to bring free public domain ebooks to more people. --> 
 
 
