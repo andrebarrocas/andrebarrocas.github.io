@@ -18,13 +18,6 @@ social: false  # includes social icons at the bottom of the page
 
 I'm a computer scientist and design researcher at the Interactive Technologies Institute, where I develop human-centered interactive systems. Previously, I worked as a UX/UI consultant at Deloitte Digital in Belgium and at INESC-ID Lisbon, focusing on information visualization. I have also worked as a teaching assistant for graduate-level courses in HCI at Instituto Superior Técnico, University of Lisbon. 
 
-<div style="margin: 1.5rem 0;">
-  <video controls muted loop playsinline style="width:100%; border-radius: 8px; box-shadow: 0 12px 24px rgba(0,0,0,0.08);">
-    <source src="{{ '/assets/media/video.mp4' | relative_url }}" type="video/mp4">
-    Your browser does not support the video tag. You can download the video <a href="{{ '/assets/media/video.mp4' | relative_url }}">here</a>.
-  </video>
-</div>
-
 ## RESEARCH
 
 I build creative tools that bring artificial intelligence into design practice, helping people work with AI in ways that feel intuitive, expressive, and supportive to the design process. At the same time, my work is driven by a strong commitment to sustainability in HCI and to understanding how digital technologies can meaningfully contribute to a better world.
@@ -32,6 +25,13 @@ I build creative tools that bring artificial intelligence into design practice, 
 I investigate how interactive systems can surface environmental impact data such as energy use, emissions, and material trade-offs at the moment designers ideate, sketch, prototype, or develop. This involves embedding ecological reasoning into the tools people use to imagine, generate, and build, so sustainability becomes a natural part of the creative process rather than an afterthought.
 
 I’m motivated by the belief that human-AI collaboration can expand what people are capable of while also encouraging more thoughtful, responsible forms of innovation.
+
+<div style="margin: 1.5rem 0;">
+  <video controls autoplay muted loop playsinline preload="auto" style="width:100%; border-radius: 8px; box-shadow: 0 12px 24px rgba(0,0,0,0.08);">
+    <source src="{{ '/assets/media/video.mp4' | relative_url }}" type="video/mp4">
+    Your browser does not support the video tag. You can download the video <a href="{{ '/assets/media/video.mp4' | relative_url }}">here</a>.
+  </video>
+</div>
 
 <!-- My hobbies include I'm currently collaborating with the [Adamastor Project](https://projectoadamastor.org/) that aims to bring free public domain ebooks to more people. --> 
 
