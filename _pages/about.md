@@ -26,7 +26,7 @@ I investigate how interactive systems can surface environmental impact data such
 
 I’m motivated by the belief that human-AI collaboration can expand what people are capable of while also encouraging more thoughtful, responsible forms of innovation.
 
-<video controls muted loop width="600">
+<video controls autoplay muted loop width="600">
   <source src="/assets/media/video.mp4" type="video/mp4">
 </video>
 
