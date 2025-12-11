@@ -27,7 +27,7 @@ I investigate how interactive systems can surface environmental impact data such
 I’m motivated by the belief that human-AI collaboration can expand what people are capable of while also encouraging more thoughtful, responsible forms of innovation.
 
 <div style="margin: 1.5rem 0;">
-  <video controls autoplay muted loop playsinline preload="auto" style="width:100%; border-radius: 8px; box-shadow: 0 12px 24px rgba(0,0,0,0.08);">
+  <video controls playsinline preload="auto" style="width:100%; border-radius: 8px; box-shadow: 0 12px 24px rgba(0,0,0,0.08);">
     <source src="{{ '/assets/media/video-optimized.mp4' | relative_url }}" type="video/mp4">
     <source src="{{ '/assets/media/video.mp4' | relative_url }}" type="video/mp4">
     Your browser does not support the video tag. You can download the video <a href="{{ '/assets/media/video.mp4' | relative_url }}">here</a>.
