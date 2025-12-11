@@ -18,6 +18,12 @@ social: false  # includes social icons at the bottom of the page
 
 I'm a computer scientist and design researcher at the Interactive Technologies Institute, where I develop human-centered interactive systems. Previously, I worked as a UX/UI consultant at Deloitte Digital in Belgium and at INESC-ID Lisbon, focusing on information visualization. I have also worked as a teaching assistant for graduate-level courses in HCI at Instituto Superior Técnico, University of Lisbon. 
 
+<div style="margin: 1.5rem 0;">
+  <video controls muted loop playsinline style="width:100%; border-radius: 8px; box-shadow: 0 12px 24px rgba(0,0,0,0.08);">
+    <source src="{{ '/assets/media/video.mp4' | relative_url }}" type="video/mp4">
+    Your browser does not support the video tag. You can download the video <a href="{{ '/assets/media/video.mp4' | relative_url }}">here</a>.
+  </video>
+</div>
 
 ## RESEARCH
 
